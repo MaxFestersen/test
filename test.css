@@ -15,7 +15,6 @@ main{
     height: 400px;
     background-color: #666;
     display: flex;
-    flex-direction: row;
     
 }
 
@@ -23,7 +22,6 @@ main{
 .box{
     flex: 50%;
     margin: 30px;
-    background-color: #000;
     color: #fff;
 }
 
